@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: SWITCHGEAR & CONTROL SYSTEMS LIMITED (S&CS)
+subtitle: For all you Switch Gear and Control System needs
 image: img/screenshot-2021-12-30-at-17.23.46.png
 blurb:
   heading: Why S&CS?
