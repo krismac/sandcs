@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/screenshot-2021-12-30-at-17.01.38.png
+logo: img/screenshot-2021-12-30-at-17.16.43.png
 contact_entries:
   - heading: Location
     text: |-
