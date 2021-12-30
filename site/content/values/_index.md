@@ -8,7 +8,7 @@ values:
       from a purpose built workshop, stores and offices of 4500 square feet. The
       premises are fully fitted out for the design, manufacture and testing of
       electrical panels.
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: img/screenshot-2021-12-30-at-17.22.17.png
   - heading: Liam
     text: >+
       Liam has a background in Engineering, Sales, Marketing and Finance. He
