@@ -1,13 +1,13 @@
 ---
 title: About
-image: /img/about-jumbotron.jpg
+image: img/screenshot-2021-12-30-at-17.23.23.png
 values:
   - heading: Formation
-    text: "Formation : S&CS Ltd was set up in 2003 by Liam Tallon and John
-      Mullaniff. Liam and John have been in the electrical business since 1979.
-      The company operates from a purpose built workshop, stores and offices of
-      4500 square feet. The premises are fully fitted out for the design,
-      manufacture and testing of electrical panels."
+    text: S&CS Ltd was set up in 2003 by Liam Tallon and John Mullaniff. Liam and
+      John have been in the electrical business since 1979. The company operates
+      from a purpose built workshop, stores and offices of 4500 square feet. The
+      premises are fully fitted out for the design, manufacture and testing of
+      electrical panels.
     imageUrl: /img/about-shade-grown.jpg
   - heading: Liam
     text: >+
