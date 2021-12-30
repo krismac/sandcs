@@ -29,7 +29,7 @@ products:
       Heating, Ventilation and Air Conditioning Control Panels (HVAC)
 
       General Service Distribution Boards (GSDB)
-  - image: img/79-794893_electricity-clipart-svg-electricity-power-icon-png-transparent.jpg
+  - image: img/cad-file-format-symbol.svg
     text: |
       The company also offers other services including,
       Computer Aided Design (AUTOCAD)
