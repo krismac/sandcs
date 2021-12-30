@@ -1,18 +1,22 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/screenshot-2021-12-30-at-17.01.38.png
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: |-
+      Kilmead Village
+      Dublin Road
+      Athy
+      Co. Kildare,
+      Ireland.
+  - heading: Phone
+    text: 00353 (59) 8626336
+  - heading: Fax
+    text: 00353 (59) 8626091
 ---
+S&CS, based in Co. Kildare, offer a complete design and manufacturing service. We can provide full turnkey projects from initial design to manufacture to site installation and commissioning across Ireland.
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">Contact Us</h3>
 
 You can also use the form below for any inquiries about coffee
 availability, monthly subscriptions and scheduling a 1-on-1 session
