@@ -1,8 +1,10 @@
 ---
 title: Our Clients
 date: 2016-12-17T15:04:10.000Z
-description: Clients across automotive, Pharmaceutical, Leisure, Energy,
-  Recycling, Environment, Food & Drink
+description: From Automotive to Pharmaceutical, Energy, Environment & Recycling,
+  Food & Beverage or Security and Construction - We're proud of our strong
+  ongoing working relationship with our much valued customers in multiple
+  sectors across Ireland including
 image: img/clients.jpg
 ---
  
