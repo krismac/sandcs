@@ -35,7 +35,7 @@ products:
       Computer Aided Design (AUTOCAD)
       Computer Aided Engraving (GRAVOPLY LABELS)
 values:
-  heading: Our values
+  heading: About us
   text: Design and manufacturing service for electrical switchgear, control
     panels, programmable logic control panels, distribution boards, motor
     control centres, power factor control panels and other automation control

@@ -1,6 +1,18 @@
 # ReadMe
 
-This is a template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms).
+
+## Updating the website
+
+Use our deploy button to get your own copy of the repository.
+
+This will setup everything needed for running the CMS:
+
+* A new repository in your GitHub account with the code [![Github Page]](https://github.com/krismac/sandcs/) 
+* Full Continuous Deployment to Netlify's global CDN network
+* Control users and access with Netlify Identity
+* Manage content with Netlify CMS [![CMS Admin Page]](http://www.sandcs.ie/admin)
+
 
 ## Local Development
 
@@ -15,5 +27,5 @@ The template is based on small, content-agnostic partials that can be mixed and 
 
 ## CSS
 
-The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. To customize the template for your brand, refer to `src/css/imports/_variables.css` where most of the important global variables like colors and spacing are stored.
+The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. Customize the template, refer to `src/css/imports/_variables.css` where most of the important global variables like colors and spacing are stored.
 
