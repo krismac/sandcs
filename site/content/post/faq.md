@@ -2,6 +2,7 @@
 title: FAQs
 date: 2017-01-04T15:04:10.000Z
 description: Frequently Asked Questions
+image: img/screenshot-2021-12-30-at-17.23.23.png
 ---
 **What qualifications do your employees have?**
 
