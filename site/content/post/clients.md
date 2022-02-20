@@ -7,19 +7,13 @@ description: From Automotive to Pharmaceutical, Energy, Environment & Recycling,
   sectors across Ireland including
 image: img/clients.jpg
 ---
-
  
-=======
-
 
 Automotive
 
 * Autolaunch, Bagenalstown, Co. Carlow
 
-
-
-
-=======
+ 
 
 Pharmaceutical
 
@@ -32,62 +26,43 @@ Pharmaceutical
 
  
 
-=======
-
 Leisure
 
 * Braun, Co. Carlow
 * Oral B , Newbridge, Co. Kildare
 
-
  
-
-=======
 
 Energy
 
 * ESB, Tarbert, Co. Kerry
 
-
  
-
-=======
 
 Recycling
 
 * Indaver, Co. Dublin
 * A1 Waste, Naas, Co. Kildare
 
-
  
-
-=======
 
 Environment
 
 * Bord Na Mona
 
-
  
-
-=======
 
 Food
 
 * Glanbia
 
-
  
-
-=======
 
 Beverage
 
 * Coca Cola
 
  
-
-=======
 
 Animal Feed
 
@@ -96,24 +71,18 @@ Animal Feed
 
  
 
-=======
-
 Security
 
 * Chubb
 * Jaynat
 
-
-
-=======
+ 
 
 Fire
 
 * Wilec, Co. Wicklow
 
- 
-
-=======
+ 
 
 Contracting
 
@@ -122,16 +91,12 @@ Contracting
 
  
 
-=======
-
 Logging
 
 * Murray Timber, Ballon, Co. Carlow
 * Murray Timber, Ballygar, Co. Galway
 
-
-
-=======
+ 
 
 Construction
 
@@ -141,10 +106,8 @@ Construction
 * Booth Concrete
 * Tegral, Athy, Co. Kildare
 
-
  
-=======
+
 Automation
 
 * CIM, Ballycoolin, Co. Dublin
-
