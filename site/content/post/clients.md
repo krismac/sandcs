@@ -3,19 +3,17 @@ title: Our Clients
 date: 2016-12-17T15:04:10.000Z
 description: From Automotive to Pharmaceutical, Energy, Environment & Recycling,
   Food & Beverage or Security and Construction - We're proud of our strong
-
-  ongoing working relationship with our much valued customers in multiple
+  ongoing working relationship with our much-valued customers in multiple
   sectors across Ireland including
 image: img/clients.jpg
 ---
-
+ 
 
 Automotive
 
 * Autolaunch, Bagenalstown, Co. Carlow
 
-
-=======
+ 
 
 Pharmaceutical
 
@@ -25,9 +23,8 @@ Pharmaceutical
 * Roche, Co. Clare
 * Schwartz Pharma, Shannon, Co. Clare
 * SAFC, Arklow, Co. Wicklow
- 
 
-=======
+ 
 
 Leisure
 
@@ -36,47 +33,36 @@ Leisure
 
  
 
-=======
-
 Energy
 
 * ESB, Tarbert, Co. Kerry
 
-
-
-=======
+ 
 
 Recycling
 
 * Indaver, Co. Dublin
 * A1 Waste, Naas, Co. Kildare
 
-
  
-
-=======
 
 Environment
 
 * Bord Na Mona
 
-
-=======
+ 
 
 Food
 
 * Glanbia
 
-
-=======
+ 
 
 Beverage
 
 * Coca Cola
 
-
  
-=======
 
 Animal Feed
 
@@ -85,16 +71,12 @@ Animal Feed
 
  
 
-=======
-
 Security
 
 * Chubb
 * Jaynat
 
-
-
-=======
+ 
 
 Fire
 
@@ -102,25 +84,19 @@ Fire
 
  
 
-=======
-
 Contracting
 
 * Dunreidy Engineering, Co. Kilkenny
 * Megavar, Portlaoise, Co. Laois
 
-
-
-=======
+ 
 
 Logging
 
 * Murray Timber, Ballon, Co. Carlow
 * Murray Timber, Ballygar, Co. Galway
 
-
-
-=======
+ 
 
 Construction
 
@@ -130,10 +106,8 @@ Construction
 * Booth Concrete
 * Tegral, Athy, Co. Kildare
 
+ 
 
-
-=======
 Automation
 
 * CIM, Ballycoolin, Co. Dublin
-
