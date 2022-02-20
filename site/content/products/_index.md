@@ -5,7 +5,7 @@ image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
   The company employs highly skilled, fully trained electricians with the specialist technical knowledge to manufacture:
-
+ 
 * Power Factor Control Panels (PFC)
 * Programmable Logic Control Panels (PLC)
 * Motor Control Centres (MCC)
