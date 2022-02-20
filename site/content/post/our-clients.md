@@ -11,15 +11,14 @@ image: img/clients.jpg
  
 =======
 
-
 Automotive
 
 * Autolaunch, Bagenalstown, Co. Carlow
 
 
-
-
+ 
 =======
+
 
 Pharmaceutical
 
@@ -30,10 +29,9 @@ Pharmaceutical
 * Schwartz Pharma, Shannon, Co. Clare
 * SAFC, Arklow, Co. Wicklow
 
+
  
-
 =======
-
 Leisure
 
 * Braun, Co. Carlow
@@ -41,18 +39,14 @@ Leisure
 
 
  
-
 =======
-
 Energy
 
 * ESB, Tarbert, Co. Kerry
 
 
  
-
 =======
-
 Recycling
 
 * Indaver, Co. Dublin
@@ -60,79 +54,67 @@ Recycling
 
 
  
-
 =======
-
 Environment
 
 * Bord Na Mona
 
 
  
-
 =======
-
 Food
 
 * Glanbia
 
 
  
-
 =======
-
 Beverage
 
 * Coca Cola
 
+
  
-
 =======
-
 Animal Feed
 
 * Dublin Products, Dunlavin, Co. Wicklow
 * CR Wynne, Castledermot, Co. Kildare
 
  
-
+ 
 =======
-
 Security
 
 * Chubb
 * Jaynat
 
 
-
+ 
 =======
-
 Fire
 
 * Wilec, Co. Wicklow
 
- 
 
+ 
 =======
-
 Contracting
 
 * Dunreidy Engineering, Co. Kilkenny
 * Megavar, Portlaoise, Co. Laois
 
+
  
-
 =======
-
 Logging
 
 * Murray Timber, Ballon, Co. Carlow
 * Murray Timber, Ballygar, Co. Galway
 
 
-
+ 
 =======
-
 Construction
 
 * Eden Aluminium
@@ -144,6 +126,7 @@ Construction
 
  
 =======
+
 Automation
 
 * CIM, Ballycoolin, Co. Dublin
