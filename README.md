@@ -1,12 +1,12 @@
 # Hugo template for Netlify CMS with Netlify Identity
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms).
 
-## Getting started
+## Updating the website
 
-Use our deploy button to get your own copy of the repository. 
+Use our deploy button to get your own copy of the repository.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
+[![CMS Admin Page]](http://www.sandcs.ie/admin)
 
 This will setup everything needed for running the CMS:
 
@@ -14,10 +14,6 @@ This will setup everything needed for running the CMS:
 * Full Continuous Deployment to Netlify's global CDN network
 * Control users and access with Netlify Identity
 * Manage content with Netlify CMS
-
-Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
-
-Now you're all set, and you can start editing content!
 
 ## Local Development
 
@@ -33,7 +29,7 @@ Use Hugo’s `dict` functionality to feed content into partials and avoid repeat
 
 ## CSS
 
-The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. To customize the template for your brand, refer to `src/css/imports/_variables.css` where most of the important global variables like colors and spacing are stored.
+The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. Customize the template, refer to `src/css/imports/_variables.css` where most of the important global variables like colors and spacing are stored.
 
 ## SVG
 
