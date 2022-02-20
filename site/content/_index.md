@@ -1,7 +1,7 @@
 ---
 title: SWITCHGEAR & CONTROL SYSTEMS LIMITED (S&CS)
 subtitle: For all you Switch Gear and Control System needs
-image: img/screenshot-2021-12-30-at-17.23.46.png
+image: img/timthumb1.jpg
 blurb:
   heading: Why S&CS?
   text: Design and manufacturing service for electrical switchgear, control
